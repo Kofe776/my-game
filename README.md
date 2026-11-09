@@ -4,4 +4,6 @@ A 2D shooter with survival elements, built on the Unity engine.<img width="1280"
 <img width="1920" height="1200" alt="Screenshot_20211115-001921" src="https://github.com/user-attachments/assets/d3077f7f-0d38-45ff-8894-548744d1467e" />
 <img width="1280" height="576" alt="photo_2026-11-10_00-10-08 (2)" src="https://github.com/user-attachments/assets/b590daa6-f24a-4dd8-8842-3edc40802ef8" />
 <img width="1280" height="576" alt="photo_2026-11-10_00-10-07" src="https://github.com/user-attachments/assets/5cd22327-bb28-4bfb-a48d-51a10491b72a" />
+<img width="2340" height="1080" alt="Screenshot_20211114_153202_com GreenGames776 Lifeafterthewar" src="https://github.com/user-attachments/assets/3f50dd6a-9873-4f01-9a2b-998f8da4cacf" />
+
 
